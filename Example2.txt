@@ -1,0 +1,10 @@
+Example2.xml
+B-E|
+P(J=T|G=F,H=T) A-C-B-E-D-I-F
+P(A=U|B=T) D-E-C-H-J-G-I-F
+B-E|A=T
+F-H|D=T,G=U
+I-J|G=T,H=F
+I-J|G=F
+P(G=U|) A-B-D-C-E-F-J-H-I
+P(I=T|D=F,G=U) E-B-A-C-F-J-H

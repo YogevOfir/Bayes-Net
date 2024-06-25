@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BayesNet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BayesNet.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

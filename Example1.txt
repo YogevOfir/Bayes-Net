@@ -1,0 +1,12 @@
+Example1.xml
+B-A|E=T
+P(A=F|E=T,B=T) M-J
+B-E|A=F
+P(A=T|B=T) E-J-M
+B-E|
+P(E=T|B=T) M-J-A
+J-M|A=T
+P(J=F|) B-A-M-E
+M-J|B=T,E=F
+P(B=T|J=T) A-E-M
+M-J|A=T,E=F

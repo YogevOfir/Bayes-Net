@@ -1,0 +1,11 @@
+CausalChain.xml
+X-Y|Z=T
+X-Y|
+Y-Z|X=T
+Z-X|Y=F
+Y-Z|
+Z-X|
+Y-X|Z=F
+X-Y|Z=T,X=F
+Y-Z|X=T,Y=T
+Z-Y|X=F
